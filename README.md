@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @2502015589
+- 👋 Hi, I’m Lisa
 - 👀 I’m interested in python and C
 - 🌱 I’m currently learning python
 - 💞️ Currently, I have no idea about what I'll collaborate on
